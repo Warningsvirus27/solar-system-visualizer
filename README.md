@@ -10,9 +10,7 @@ when with multiple planets, the planet 'A' is the resultant motion of all other 
 
 
 The planets are fitted with the newton law of gravitation
-           M1 * m2 * (r21 cap)
-force = G ------------------
-            |  r21 hat  | ^ 2
+force = G(M1 * m2 * (r21 cap))/  ( |  r21 hat  | ^ 2)
  -- the r vector is directed towards the other planet
 
 
